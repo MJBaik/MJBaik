@@ -44,8 +44,6 @@
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&logoSize=amd&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/jira-%230052CC?style=flat-square&logo=jira&logoColor=%23ffffff&logoSize=amd&color=%230052CC)
 
-![Static Badge](https://img.shields.io/badge/WARM%20HEART-%23f06c7c?style=flat-square&logo=githubsponsors&logoColor=%23ffffff&logoSize=amd&color=%23f06c7c)
-
 ## 🎈 Activity
 
 #### 🎹 BOJ
@@ -61,4 +59,4 @@
 
 - SSAFY 1학기 프로젝트 경진대회 최우수상 (2023.12)
 - SSAFY 2학기 프로젝트 경진대회 우수상 (2024.04)
-- SSAFY 2학기 프로젝트 경진대회 우수상 (2024.06)
+- SSAFY 2학기 프로젝트 경진대회 최우수상 (2024.06)
